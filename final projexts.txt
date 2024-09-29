@@ -182,3 +182,13 @@ void loop() {
     }
   }
 }
+
+
+servo a0
+buzzer a1
+led a2
+led a3
+
+
+keypad  digital 1-9
+lcd sda slc 
